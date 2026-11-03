@@ -1,4 +1,4 @@
-# test- 77mustafo
-dvsB
-ftgjh
-fthfth
+## Collaboration
+
+This repository welcomes collaboration and contributions.
+Working together helps improve the project and share ideas.
